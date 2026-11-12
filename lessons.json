@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "alphabet",
+    "title": "The alphabet",
+    "thaiTitle": "ตัวอักษร",
+    "icon": "textformat.abc",
+    "tip": "ชื่อของตัวอักษรอาจต่างจากเสียงในคำ เช่น B ชื่อ “บี” แต่ในคำว่า book จะออกเสียง /b/ ฟังแล้วลองพูดตาม",
+    "cards": [
+      {
+        "id": "alphabet-0",
+        "english": "A",
+        "thai": "เอ",
+        "example": "The letter A (ay)."
+      },
+      {
+        "id": "alphabet-1",
+        "english": "B",
+        "thai": "บี",
+        "example": "The letter B (bee)."
+      },
+      {
+        "id": "alphabet-2",
+        "english": "C",
+        "thai": "ซี",
+        "example": "The letter C (see)."
+      },
+      {
+        "id": "alphabet-3",
+        "english": "D",
+        "thai": "ดี",
+        "example": "The letter D (dee)."
+      },
+      {
+        "id": "alphabet-4",
+        "english": "E",
+        "thai": "อี",
+        "example": "The letter E (ee)."
+      },
+      {
+        "id": "alphabet-5",
+        "english": "F",
+        "thai": "เอฟ",
+        "example": "The letter F (ef)."
+      },
+      {
+        "id": "alphabet-6",
+        "english": "G",
+        "thai": "จี",
+        "example": "The letter G (jee)."
+      },
+      {
+        "id": "alphabet-7",
+        "english": "H",
+        "thai": "เอช",
+        "example": "The letter H (aych)."
+      },
+      {
+        "id": "alphabet-8",
+        "english": "I",
+        "thai": "ไอ",
+        "example": "The letter I (eye)."
+      },
+      {
+        "id": "alphabet-9",
+        "english": "J",
+        "thai": "เจ",
+        "example": "The letter J (jay)."
+      },
+      {
+        "id": "alphabet-10",
+        "english": "K",
+        "thai": "เค",
+        "example": "The letter K (kay)."
+      },
+      {
+        "id": "alphabet-11",
+        "english": "L",
+        "thai": "แอล",
+        "example": "The letter L (el)."
+      },
+      {
+        "id": "alphabet-12",
+        "english": "M",
+        "thai": "เอ็ม",
+        "example": "The letter M (em)."
+      },
+      {
+        "id": "alphabet-13",
+        "english": "N",
+        "thai": "เอ็น",
+        "example": "The letter N (en)."
+      },
+      {
+        "id": "alphabet-14",
+        "english": "O",
+        "thai": "โอ",
+        "example": "The letter O (oh)."
+      },
+      {
+        "id": "alphabet-15",
+        "english": "P",
+        "thai": "พี",
+        "example": "The letter P (pee)."
+      },
+      {
+        "id": "alphabet-16",
+        "english": "Q",
+        "thai": "คิว",
+        "example": "The letter Q (cue)."
+      },
+      {
+        "id": "alphabet-17",
+        "english": "R",
+        "thai": "อาร์",
+        "example": "The letter R (ar)."
+      },
+      {
+        "id": "alphabet-18",
+        "english": "S",
+        "thai": "เอส",
+        "example": "The letter S (es)."
+      },
+      {
+        "id": "alphabet-19",
+        "english": "T",
+        "thai": "ที",
+        "example": "The letter T (tee)."
+      },
+      {
+        "id": "alphabet-20",
+        "english": "U",
+        "thai": "ยู",
+        "example": "The letter U (you)."
+      },
+      {
+        "id": "alphabet-21",
+        "english": "V",
+        "thai": "วี",
+        "example": "The letter V (vee)."
+      },
+      {
+        "id": "alphabet-22",
+        "english": "W",
+        "thai": "ดับเบิลยู",
+        "example": "The letter W (double you)."
+      },
+      {
+        "id": "alphabet-23",
+        "english": "X",
+        "thai": "เอ็กซ์",
+        "example": "The letter X (ex)."
+      },
+      {
+        "id": "alphabet-24",
+        "english": "Y",
+        "thai": "วาย",
+        "example": "The letter Y (why)."
+      },
+      {
+        "id": "alphabet-25",
+        "english": "Z",
+        "thai": "ซี",
+        "example": "The letter Z (zee)."
+      }
+    ],
+    "questions": [
+      {
+        "id": "alphabet-q0",
+        "prompt": "Choose the English for: เอ",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A",
+        "explanation": "A = เอ"
+      },
+      {
+        "id": "alphabet-q1",
+        "prompt": "Choose the English for: บี",
+        "options": [
+          "A",
+          "C",
+          "D",
+          "B"
+        ],
+        "answer": "B",
+        "explanation": "B = บี"
+      },
+      {
+        "id": "alphabet-q2",
+        "prompt": "Choose the English for: ซี",
+        "options": [
+          "B",
+          "D",
+          "C",
+          "A"
+        ],
+        "answer": "C",
+        "explanation": "C = ซี"
+      },
+      {
+        "id": "alphabet-q3",
+        "prompt": "Choose the English for: ดี",
+        "options": [
+          "C",
+          "D",
+          "A",
+          "B"
+        ],
+        "answer": "D",
+        "explanation": "D = ดี"
+      },
+      {
+        "id": "alphabet-q4",
+        "prompt": "Choose the English for: อี",
+        "options": [
+          "E",
+          "A",
+          "B",
+          "C"
+        ],
+        "answer": "E",
+        "explanation": "E = อี"
+      }
+    ]
+  },
+  {
+    "id": "greetings",
+    "title": "Hello, world",
+    "thaiTitle": "คำทักทาย",
+    "icon": "hand.wave",
+    "tip": "ใช้ Hello ได้ทั่วไป ส่วน Good morning ใช้ทักทายในตอนเช้า ลองพูดตามเสียงช้า ๆ",
+    "cards": [
+      {
+        "id": "greetings-0",
+        "english": "Hello",
+        "thai": "สวัสดี",
+        "example": "Hello! My name is Mali."
+      },
+      {
+        "id": "greetings-1",
+        "english": "Good morning",
+        "thai": "สวัสดีตอนเช้า",
+        "example": "Good morning, teacher."
+      },
+      {
+        "id": "greetings-2",
+        "english": "Goodbye",
+        "thai": "ลาก่อน",
+        "example": "Goodbye! See you tomorrow."
+      },
+      {
+        "id": "greetings-3",
+        "english": "Thank you",
+        "thai": "ขอบคุณ",
+        "example": "Thank you for your help."
+      },
+      {
+        "id": "greetings-4",
+        "english": "Please",
+        "thai": "กรุณา / โปรด",
+        "example": "Water, please."
+      },
+      {
+        "id": "greetings-5",
+        "english": "Sorry",
+        "thai": "ขอโทษ",
+        "example": "Sorry, I am late."
+      }
+    ],
+    "questions": [
+      {
+        "id": "greetings-q0",
+        "prompt": "Choose the English for: สวัสดี",
+        "options": [
+          "Hello",
+          "Good morning",
+          "Goodbye",
+          "Thank you"
+        ],
+        "answer": "Hello",
+        "explanation": "Hello = สวัสดี"
+      },
+      {
+        "id": "greetings-q1",
+        "prompt": "Choose the English for: สวัสดีตอนเช้า",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Thank you",
+          "Good morning"
+        ],
+        "answer": "Good morning",
+        "explanation": "Good morning = สวัสดีตอนเช้า"
+      },
+      {
+        "id": "greetings-q2",
+        "prompt": "Choose the English for: ลาก่อน",
+        "options": [
+          "Good morning",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "answer": "Goodbye",
+        "explanation": "Goodbye = ลาก่อน"
+      },
+      {
+        "id": "greetings-q3",
+        "prompt": "Choose the English for: ขอบคุณ",
+        "options": [
+          "Goodbye",
+          "Thank you",
+          "Hello",
+          "Good morning"
+        ],
+        "answer": "Thank you",
+        "explanation": "Thank you = ขอบคุณ"
+      },
+      {
+        "id": "greetings-q4",
+        "prompt": "Choose the English for: กรุณา / โปรด",
+        "options": [
+          "Please",
+          "Hello",
+          "Good morning",
+          "Goodbye"
+        ],
+        "answer": "Please",
+        "explanation": "Please = กรุณา / โปรด"
+      }
+    ]
+  },
+  {
+    "id": "numbers",
+    "title": "Numbers 0–20",
+    "thaiTitle": "ตัวเลข 0–20",
+    "icon": "number",
+    "tip": "ฝึกแยกเสียงท้ายของ thirteen กับ thirty บทนี้เริ่มจากเลข 0 ถึง 20",
+    "cards": [
+      {
+        "id": "numbers-0",
+        "english": "zero",
+        "thai": "0",
+        "example": "The number is zero."
+      },
+      {
+        "id": "numbers-1",
+        "english": "one",
+        "thai": "1",
+        "example": "The number is one."
+      },
+      {
+        "id": "numbers-2",
+        "english": "two",
+        "thai": "2",
+        "example": "The number is two."
+      },
+      {
+        "id": "numbers-3",
+        "english": "three",
+        "thai": "3",
+        "example": "The number is three."
+      },
+      {
+        "id": "numbers-4",
+        "english": "four",
+        "thai": "4",
+        "example": "The number is four."
+      },
+      {
+        "id": "numbers-5",
+        "english": "five",
+        "thai": "5",
+        "example": "The number is five."
+      },
+      {
+        "id": "numbers-6",
+        "english": "six",
+        "thai": "6",
+        "example": "The number is six."
+      },
+      {
+        "id": "numbers-7",
+        "english": "seven",
+        "thai": "7",
+        "example": "The number is seven."
+      },
+      {
+        "id": "numbers-8",
+        "english": "eight",
+        "thai": "8",
+        "example": "The number is eight."
+      },
+      {
+        "id": "numbers-9",
+        "english": "nine",
+        "thai": "9",
+        "example": "The number is nine."
+      },
+      {
+        "id": "numbers-10",
+        "english": "ten",
+        "thai": "10",
+        "example": "The number is ten."
+      },
+      {
+        "id": "numbers-11",
+        "english": "eleven",
+        "thai": "11",
+        "example": "The number is eleven."
+      },
+      {
+        "id": "numbers-12",
+        "english": "twelve",
+        "thai": "12",
+        "example": "The number is twelve."
+      },
+      {
+        "id": "numbers-13",
+        "english": "thirteen",
+        "thai": "13",
+        "example": "The number is thirteen."
+      },
+      {
+        "id": "numbers-14",
+        "english": "fourteen",
+        "thai": "14",
+        "example": "The number is fourteen."
+      },
+      {
+        "id": "numbers-15",
+        "english": "fifteen",
+        "thai": "15",
+        "example": "The number is fifteen."
+      },
+      {
+        "id": "numbers-16",
+        "english": "sixteen",
+        "thai": "16",
+        "example": "The number is sixteen."
+      },
+      {
+        "id": "numbers-17",
+        "english": "seventeen",
+        "thai": "17",
+        "example": "The number is seventeen."
+      },
+      {
+        "id": "numbers-18",
+        "english": "eighteen",
+        "thai": "18",
+        "example": "The number is eighteen."
+      },
+      {
+        "id": "numbers-19",
+        "english": "nineteen",
+        "thai": "19",
+        "example": "The number is nineteen."
+      },
+      {
+        "id": "numbers-20",
+        "english": "twenty",
+        "thai": "20",
+        "example": "The number is twenty."
+      }
+    ],
+    "questions": [
+      {
+        "id": "numbers-q0",
+        "prompt": "Choose the English for: 0",
+        "options": [
+          "zero",
+          "one",
+          "two",
+          "three"
+        ],
+        "answer": "zero",
+        "explanation": "zero = 0"
+      },
+      {
+        "id": "numbers-q1",
+        "prompt": "Choose the English for: 1",
+        "options": [
+          "zero",
+          "two",
+          "three",
+          "one"
+        ],
+        "answer": "one",
+        "explanation": "one = 1"
+      },
+      {
+        "id": "numbers-q2",
+        "prompt": "Choose the English for: 2",
+        "options": [
+          "one",
+          "three",
+          "two",
+          "zero"
+        ],
+        "answer": "two",
+        "explanation": "two = 2"
+      },
+      {
+        "id": "numbers-q3",
+        "prompt": "Choose the English for: 3",
+        "options": [
+          "two",
+          "three",
+          "zero",
+          "one"
+        ],
+        "answer": "three",
+        "explanation": "three = 3"
+      },
+      {
+        "id": "numbers-q4",
+        "prompt": "Choose the English for: 4",
+        "options": [
+          "four",
+          "zero",
+          "one",
+          "two"
+        ],
+        "answer": "four",
+        "explanation": "four = 4"
+      }
+    ]
+  },
+  {
+    "id": "introductions",
+    "title": "Meet someone",
+    "thaiTitle": "แนะนำตัว",
+    "icon": "person.2",
+    "tip": "My name is… ใช้บอกชื่อ และ I am from… ใช้บอกว่ามาจากที่ไหน เปลี่ยนชื่อและประเทศให้ตรงกับตัวคุณ",
+    "cards": [
+      {
+        "id": "introductions-0",
+        "english": "My name is Mali.",
+        "thai": "ฉันชื่อมะลิ",
+        "example": "My name is Mali."
+      },
+      {
+        "id": "introductions-1",
+        "english": "I am from Thailand.",
+        "thai": "ฉันมาจากประเทศไทย",
+        "example": "I am from Thailand."
+      },
+      {
+        "id": "introductions-2",
+        "english": "Nice to meet you.",
+        "thai": "ยินดีที่ได้รู้จัก",
+        "example": "Nice to meet you."
+      },
+      {
+        "id": "introductions-3",
+        "english": "How are you?",
+        "thai": "คุณสบายดีไหม",
+        "example": "Hello! How are you?"
+      },
+      {
+        "id": "introductions-4",
+        "english": "I am fine.",
+        "thai": "ฉันสบายดี",
+        "example": "I am fine, thank you."
+      },
+      {
+        "id": "introductions-5",
+        "english": "What is your name?",
+        "thai": "คุณชื่ออะไร",
+        "example": "Hello! What is your name?"
+      }
+    ],
+    "questions": [
+      {
+        "id": "introductions-q0",
+        "prompt": "Choose the English for: ฉันชื่อมะลิ",
+        "options": [
+          "My name is Mali.",
+          "I am from Thailand.",
+          "Nice to meet you.",
+          "How are you?"
+        ],
+        "answer": "My name is Mali.",
+        "explanation": "My name is Mali. = ฉันชื่อมะลิ"
+      },
+      {
+        "id": "introductions-q1",
+        "prompt": "Choose the English for: ฉันมาจากประเทศไทย",
+        "options": [
+          "My name is Mali.",
+          "Nice to meet you.",
+          "How are you?",
+          "I am from Thailand."
+        ],
+        "answer": "I am from Thailand.",
+        "explanation": "I am from Thailand. = ฉันมาจากประเทศไทย"
+      },
+      {
+        "id": "introductions-q2",
+        "prompt": "Choose the English for: ยินดีที่ได้รู้จัก",
+        "options": [
+          "I am from Thailand.",
+          "How are you?",
+          "Nice to meet you.",
+          "My name is Mali."
+        ],
+        "answer": "Nice to meet you.",
+        "explanation": "Nice to meet you. = ยินดีที่ได้รู้จัก"
+      },
+      {
+        "id": "introductions-q3",
+        "prompt": "Choose the English for: คุณสบายดีไหม",
+        "options": [
+          "Nice to meet you.",
+          "How are you?",
+          "My name is Mali.",
+          "I am from Thailand."
+        ],
+        "answer": "How are you?",
+        "explanation": "How are you? = คุณสบายดีไหม"
+      },
+      {
+        "id": "introductions-q4",
+        "prompt": "Choose the English for: ฉันสบายดี",
+        "options": [
+          "I am fine.",
+          "My name is Mali.",
+          "I am from Thailand.",
+          "Nice to meet you."
+        ],
+        "answer": "I am fine.",
+        "explanation": "I am fine. = ฉันสบายดี"
+      }
+    ]
+  },
+  {
+    "id": "home",
+    "title": "At home",
+    "thaiTitle": "ที่บ้าน",
+    "icon": "house",
+    "tip": "a ใช้นำหน้าคำนามเอกพจน์ที่ขึ้นต้นด้วยเสียงพยัญชนะ เช่น a book ฝึกพูดคำพร้อมประโยคตัวอย่าง",
+    "cards": [
+      {
+        "id": "home-0",
+        "english": "book",
+        "thai": "หนังสือ",
+        "example": "This is a book."
+      },
+      {
+        "id": "home-1",
+        "english": "chair",
+        "thai": "เก้าอี้",
+        "example": "This is a chair."
+      },
+      {
+        "id": "home-2",
+        "english": "table",
+        "thai": "โต๊ะ",
+        "example": "The book is on the table."
+      },
+      {
+        "id": "home-3",
+        "english": "door",
+        "thai": "ประตู",
+        "example": "Open the door, please."
+      },
+      {
+        "id": "home-4",
+        "english": "bed",
+        "thai": "เตียง",
+        "example": "This is my bed."
+      },
+      {
+        "id": "home-5",
+        "english": "phone",
+        "thai": "โทรศัพท์",
+        "example": "This is my phone."
+      }
+    ],
+    "questions": [
+      {
+        "id": "home-q0",
+        "prompt": "Choose the English for: หนังสือ",
+        "options": [
+          "book",
+          "chair",
+          "table",
+          "door"
+        ],
+        "answer": "book",
+        "explanation": "book = หนังสือ"
+      },
+      {
+        "id": "home-q1",
+        "prompt": "Choose the English for: เก้าอี้",
+        "options": [
+          "book",
+          "table",
+          "door",
+          "chair"
+        ],
+        "answer": "chair",
+        "explanation": "chair = เก้าอี้"
+      },
+      {
+        "id": "home-q2",
+        "prompt": "Choose the English for: โต๊ะ",
+        "options": [
+          "chair",
+          "door",
+          "table",
+          "book"
+        ],
+        "answer": "table",
+        "explanation": "table = โต๊ะ"
+      },
+      {
+        "id": "home-q3",
+        "prompt": "Choose the English for: ประตู",
+        "options": [
+          "table",
+          "door",
+          "book",
+          "chair"
+        ],
+        "answer": "door",
+        "explanation": "door = ประตู"
+      },
+      {
+        "id": "home-q4",
+        "prompt": "Choose the English for: เตียง",
+        "options": [
+          "bed",
+          "book",
+          "chair",
+          "table"
+        ],
+        "answer": "bed",
+        "explanation": "bed = เตียง"
+      }
+    ]
+  },
+  {
+    "id": "food",
+    "title": "Food & drink",
+    "thaiTitle": "อาหารและเครื่องดื่ม",
+    "icon": "cup.and.saucer",
+    "tip": "I would like… เป็นวิธีขออย่างสุภาพ เช่น I would like some water, please.",
+    "cards": [
+      {
+        "id": "food-0",
+        "english": "water",
+        "thai": "น้ำ",
+        "example": "I would like some water, please."
+      },
+      {
+        "id": "food-1",
+        "english": "rice",
+        "thai": "ข้าว",
+        "example": "I eat rice."
+      },
+      {
+        "id": "food-2",
+        "english": "milk",
+        "thai": "นม",
+        "example": "I drink milk."
+      },
+      {
+        "id": "food-3",
+        "english": "bread",
+        "thai": "ขนมปัง",
+        "example": "I would like some bread."
+      },
+      {
+        "id": "food-4",
+        "english": "apple",
+        "thai": "แอปเปิล",
+        "example": "This is an apple."
+      },
+      {
+        "id": "food-5",
+        "english": "tea",
+        "thai": "ชา",
+        "example": "I would like some tea."
+      }
+    ],
+    "questions": [
+      {
+        "id": "food-q0",
+        "prompt": "Choose the English for: น้ำ",
+        "options": [
+          "water",
+          "rice",
+          "milk",
+          "bread"
+        ],
+        "answer": "water",
+        "explanation": "water = น้ำ"
+      },
+      {
+        "id": "food-q1",
+        "prompt": "Choose the English for: ข้าว",
+        "options": [
+          "water",
+          "milk",
+          "bread",
+          "rice"
+        ],
+        "answer": "rice",
+        "explanation": "rice = ข้าว"
+      },
+      {
+        "id": "food-q2",
+        "prompt": "Choose the English for: นม",
+        "options": [
+          "rice",
+          "bread",
+          "milk",
+          "water"
+        ],
+        "answer": "milk",
+        "explanation": "milk = นม"
+      },
+      {
+        "id": "food-q3",
+        "prompt": "Choose the English for: ขนมปัง",
+        "options": [
+          "milk",
+          "bread",
+          "water",
+          "rice"
+        ],
+        "answer": "bread",
+        "explanation": "bread = ขนมปัง"
+      },
+      {
+        "id": "food-q4",
+        "prompt": "Choose the English for: แอปเปิล",
+        "options": [
+          "apple",
+          "water",
+          "rice",
+          "milk"
+        ],
+        "answer": "apple",
+        "explanation": "apple = แอปเปิล"
+      }
+    ]
+  },
+  {
+    "id": "places",
+    "title": "Around town",
+    "thaiTitle": "สถานที่รอบตัว",
+    "icon": "map",
+    "tip": "Where is…? ใช้ถามว่าสถานที่อยู่ที่ไหน เช่น Where is the station?",
+    "cards": [
+      {
+        "id": "places-0",
+        "english": "school",
+        "thai": "โรงเรียน",
+        "example": "I go to school."
+      },
+      {
+        "id": "places-1",
+        "english": "hospital",
+        "thai": "โรงพยาบาล",
+        "example": "Where is the hospital?"
+      },
+      {
+        "id": "places-2",
+        "english": "shop",
+        "thai": "ร้านค้า",
+        "example": "This is a shop."
+      },
+      {
+        "id": "places-3",
+        "english": "station",
+        "thai": "สถานี",
+        "example": "Where is the station?"
+      },
+      {
+        "id": "places-4",
+        "english": "airport",
+        "thai": "สนามบิน",
+        "example": "I am at the airport."
+      },
+      {
+        "id": "places-5",
+        "english": "restaurant",
+        "thai": "ร้านอาหาร",
+        "example": "Where is the restaurant?"
+      }
+    ],
+    "questions": [
+      {
+        "id": "places-q0",
+        "prompt": "Choose the English for: โรงเรียน",
+        "options": [
+          "school",
+          "hospital",
+          "shop",
+          "station"
+        ],
+        "answer": "school",
+        "explanation": "school = โรงเรียน"
+      },
+      {
+        "id": "places-q1",
+        "prompt": "Choose the English for: โรงพยาบาล",
+        "options": [
+          "school",
+          "shop",
+          "station",
+          "hospital"
+        ],
+        "answer": "hospital",
+        "explanation": "hospital = โรงพยาบาล"
+      },
+      {
+        "id": "places-q2",
+        "prompt": "Choose the English for: ร้านค้า",
+        "options": [
+          "hospital",
+          "station",
+          "shop",
+          "school"
+        ],
+        "answer": "shop",
+        "explanation": "shop = ร้านค้า"
+      },
+      {
+        "id": "places-q3",
+        "prompt": "Choose the English for: สถานี",
+        "options": [
+          "shop",
+          "station",
+          "school",
+          "hospital"
+        ],
+        "answer": "station",
+        "explanation": "station = สถานี"
+      },
+      {
+        "id": "places-q4",
+        "prompt": "Choose the English for: สนามบิน",
+        "options": [
+          "airport",
+          "school",
+          "hospital",
+          "shop"
+        ],
+        "answer": "airport",
+        "explanation": "airport = สนามบิน"
+      }
+    ]
+  },
+  {
+    "id": "routine",
+    "title": "My day",
+    "thaiTitle": "กิจวัตรประจำวัน",
+    "icon": "sun.max",
+    "tip": "ใช้ I + คำกริยา เพื่อบอกสิ่งที่ทำเป็นประจำ เช่น I study English. ลองเล่าเรื่องวันของคุณ",
+    "cards": [
+      {
+        "id": "routine-0",
+        "english": "I wake up.",
+        "thai": "ฉันตื่นนอน",
+        "example": "I wake up at seven."
+      },
+      {
+        "id": "routine-1",
+        "english": "I eat breakfast.",
+        "thai": "ฉันกินอาหารเช้า",
+        "example": "I eat breakfast at home."
+      },
+      {
+        "id": "routine-2",
+        "english": "I go to work.",
+        "thai": "ฉันไปทำงาน",
+        "example": "I go to work at eight."
+      },
+      {
+        "id": "routine-3",
+        "english": "I study English.",
+        "thai": "ฉันเรียนภาษาอังกฤษ",
+        "example": "I study English every day."
+      },
+      {
+        "id": "routine-4",
+        "english": "I go home.",
+        "thai": "ฉันกลับบ้าน",
+        "example": "I go home at five."
+      },
+      {
+        "id": "routine-5",
+        "english": "I go to bed.",
+        "thai": "ฉันเข้านอน",
+        "example": "I go to bed at ten."
+      }
+    ],
+    "questions": [
+      {
+        "id": "routine-q0",
+        "prompt": "Choose the English for: ฉันตื่นนอน",
+        "options": [
+          "I wake up.",
+          "I eat breakfast.",
+          "I go to work.",
+          "I study English."
+        ],
+        "answer": "I wake up.",
+        "explanation": "I wake up. = ฉันตื่นนอน"
+      },
+      {
+        "id": "routine-q1",
+        "prompt": "Choose the English for: ฉันกินอาหารเช้า",
+        "options": [
+          "I wake up.",
+          "I go to work.",
+          "I study English.",
+          "I eat breakfast."
+        ],
+        "answer": "I eat breakfast.",
+        "explanation": "I eat breakfast. = ฉันกินอาหารเช้า"
+      },
+      {
+        "id": "routine-q2",
+        "prompt": "Choose the English for: ฉันไปทำงาน",
+        "options": [
+          "I eat breakfast.",
+          "I study English.",
+          "I go to work.",
+          "I wake up."
+        ],
+        "answer": "I go to work.",
+        "explanation": "I go to work. = ฉันไปทำงาน"
+      },
+      {
+        "id": "routine-q3",
+        "prompt": "Choose the English for: ฉันเรียนภาษาอังกฤษ",
+        "options": [
+          "I go to work.",
+          "I study English.",
+          "I wake up.",
+          "I eat breakfast."
+        ],
+        "answer": "I study English.",
+        "explanation": "I study English. = ฉันเรียนภาษาอังกฤษ"
+      },
+      {
+        "id": "routine-q4",
+        "prompt": "Choose the English for: ฉันกลับบ้าน",
+        "options": [
+          "I go home.",
+          "I wake up.",
+          "I eat breakfast.",
+          "I go to work."
+        ],
+        "answer": "I go home.",
+        "explanation": "I go home. = ฉันกลับบ้าน"
+      }
+    ]
+  }
+]
